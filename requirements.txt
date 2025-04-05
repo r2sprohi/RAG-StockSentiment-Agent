@@ -1,0 +1,8 @@
+
+openai
+faiss-cpu
+pandas
+numpy
+streamlit
+sklearn
+tiktoken
